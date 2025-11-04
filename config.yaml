@@ -1,0 +1,7 @@
+#put there your input file and ouput folder
+video_path: "input.mp4"
+output_dir: "output_frames"
+fps_main: 1
+fpls_boost: 3
+scene_threshold: 27.0
+dedup_distance: 10
