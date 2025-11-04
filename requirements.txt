@@ -1,4 +1,4 @@
-PySceneDetect[opencv]
+scenedetect[opencv]
 Pillow
 imagededup
 PyYAML
