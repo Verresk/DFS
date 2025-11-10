@@ -1,2 +1,7 @@
 # DFS
-DFS -  is Frame Slicer for Datasets, that slices frames from videos (even multi-hour ones) and selects the most informative ones
+DFS (Dataset Frame Slicer) - инструмент для нарезки видео (даже многочасовых) на ключевые кадры для разметки, для решения дальнейших задач детекции/сегментации/трекинга и пр.
+
+
+# About
+
+DFS using scenedetect
